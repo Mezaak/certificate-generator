@@ -2,6 +2,10 @@
 
 Certificate Generator is a web application that allows you to create a personalized certificate by entering your first and last name. Additionally, users can easily customize the certificate design and content by modifying the code.
 
+Check Here
+
+https://mezaak.github.io/certificate-generator/
+
 ## Features
 - Generate certificates dynamically based on first and last name
 - Download certificates in PDF format
