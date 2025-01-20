@@ -38,7 +38,8 @@ Follow these steps to run this project:
 - Use the jsPDF functions in the `script.js` file to enhance your certificate design.
 
 ## Screenshots
-![Certificate Generator Preview](screenshots/sample.png)
+![Certificate Generator Preview](https://raw.githubusercontent.com/Mezaak/certificate-generator/refs/heads/main/ss1.png)
+![Certificate Generator Preview](https://raw.githubusercontent.com/Mezaak/certificate-generator/refs/heads/main/ss2.png)
 
 ## Contributing
 If you would like to contribute, please submit a **pull request** or open an **issue**.
